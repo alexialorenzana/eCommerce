@@ -1,0 +1,78 @@
+{"products":
+[
+{
+    "title": "The Birthday Bouquet",
+    "image": "images/bday.jpg",
+    "price": "$55.99",
+    "description": "Pink and peach roses, stock, green hydrangea in a clear glass vase."
+},
+{
+    "title": "The Bestie Bouquet",
+    "image": "images/bestie.jpg",
+    "price": "$55.99",
+    "description": "Enjoy a designers choice of the prettiest flowers of the day, wrapped beautifully in paper and tied with a satin bow."
+},
+{
+    "title": "The Boyfriend Bouquet",
+    "image": "images/bf.jpg",
+    "price": "$55.99",
+    "description": "All white hydrangea,and orange roses, with assorted greenery."
+},
+{
+    "title": "The Girlfriend Bouquet",
+    "image": "images/gf.jpg",
+    "price": "$55.99",
+    "description": "Pink roses, Gerbera daisies, dendrobium orchids, tulips and assorted greenery."
+},
+{
+    "title": "The Home Bouquet",
+    "image": "images/house.jpg",
+    "price": "$55.99",
+    "description": "white hydrangea destined to brighten anyone’s day!"
+},
+{
+    "title": "The Mom Bouquet",
+    "image": "images/mom.jpg",
+    "price": "$55.99",
+    "description": "This vibrant and fun arrangement is sure to bring smiles and happiness to all moms!"
+}, 
+{
+    "title": "The Quince Bouquet",
+    "image": "images/quince.jpg",
+    "price": "$55.99",
+    "description": "Dahlias, pink roses, hydrangea, and stock in a glass vase.-Dahlias will be replaced with substitute when not in season"
+},
+{
+    "title": "The Tulip Bouquet",
+    "image": "images/tulip.jpg",
+    "price": "$55.99",
+    "description": "Classic tulips, colors may depend on season."
+},
+{
+    "title": "The Vday Bouquet",
+    "image": "images/vday.jpg",
+    "price": "$55.99",
+    "description": "Hot pink roses and gerbera daisies, white hydrangea."
+},
+{
+    "title": "UNVST Bouquet",
+    "image": "images/unvst.jpg",
+    "price": "$65.99",
+    "description": "white hydrangea, classic pink and red roses, in a glass vase."
+},
+
+{
+    "title": "SOUR Bouquet",
+    "image": "images/veryberry.jpg",
+    "price": "$65.99",
+    "description": "blush and pink garden roses, white hydrangea, pink peonies, green large calla lilies, and lavander daisies "
+},
+{
+    "title": "Swiftie Bouquet",
+    "image": "images/swiftie.jpg",
+    "price": "$65.99",
+    "description": "All white hydrangea, pink roses, lilies, and snap dragons with assorted greenery, wrapped beautifully in paper."
+}
+
+]
+}
