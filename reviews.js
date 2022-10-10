@@ -10,7 +10,7 @@ currentSlide = 0,    // currentSlide (which is how many slides have been shown s
 currentActive = 0,  //currentActive (which is what slide was active when this function started running), timer, 
 testimTimer,
 touchStartPos,    //touchStartPos, touchEndPos, touchPosDiff, gnoreTouch (how long before we ignore a touch)  it basically
-touchEndPos,   //  this sets up a test that will be used to determine whether or not the user is touching the screen. 
+touchEndPos,   // sets up a test that will be used to determine whether or not the user is touching the screen. 
 touchPosDiff,
 gnoreTouch = 30;
 ;
@@ -21,13 +21,13 @@ window.onload = function() {  // the function that will play the next slide in t
 // used for loops and if statements
 function playSlide(slide) {
 for (var k = 0; k < testimDots.length; k++) {    //this line defines an array called testimDots that will hold all of the dots on each slide
-testimContent[k].classList.remove("active");   //irst thing that happens in this function is that it loops through all of the slides and removes any active class from each one.
+testimContent[k].classList.remove("active");   //first thing that happens in this function is that it loops through all of the slides and removes any active class from each one.
 testimContent[k].classList.remove("inactive");         
 testimDots[k].classList.remove("active");  //It also removes any inactive class from each one, as well as removing any active dots on each slide.
 }
 
 if (slide < 0) {
-slide = currentSlide = testimContent.length-1;  //if there are less than 10 slides left, it will set currentSlide to 0 and start over again with 1.
+slide = currentSlide = testimContent.length-1;  //if there are less than 0 slides left, it will set currentSlide to 0 and start over again with 1.
 }
 
 

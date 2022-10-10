@@ -1,4 +1,4 @@
-fetch("product.json")  // fetching the product.json file from the server and then parsing it into a JSON object.
+fetch("product.json")  // fetching the product.json file from the server.
 .then((response) => response.json())
 .then((json) => getProducts(json));
 
